@@ -1,0 +1,2 @@
+## Algorithms Challenge
+In this challenge, we would like you to implement an algorithm of your choice in Python. You can pick any algorithm you like, such as sorting algorithms, searching algorithms, graph algorithms, etc. Implement your chosen algorithm in the provided `main.py` file.
